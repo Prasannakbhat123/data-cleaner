@@ -1,0 +1,65 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Temporary and backup files
+*~
+*.bak
+*.swp
+*.tmp
+.DS_Store
+
+# Uploaded and processed data files
+backend/uploads/*
+backend/cleaned/*
+!backend/uploads/.gitkeep
+!backend/cleaned/.gitkeep
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# NPM/Node.js (if you add frontend build tools later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

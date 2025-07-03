@@ -1,0 +1,10 @@
+Name,Age,Email,Country,Department,Salary
+John Smith,32,john.smith@example.com,USA,Marketing,65000
+Jane  Doe,29,jane.doe@example.com,usa,Engineering,72000
+Michael Johnson,,michael.johnson@example.com,CANADA,Finance,95000
+Sarah Williams,34,sarah.williams@example.com,UK,HR,
+John Smith,32,john.smith@example.com,USA,Marketing,65000
+ Jennifer Lee,27,jennifer.lee@example.com,Canada,Marketing,78000
+Robert Davis,,robert.davis@example.com,uk,Sales,69000
+Emma Wilson,31,emma.wilson@example.com,Australa,Finance,72000
+Alex Martinez,36,alex.martinez@example.com,USA,Engineering,91000

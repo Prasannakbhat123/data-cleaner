@@ -1,0 +1,16 @@
+Name,Age,Email,Joining Date,Salary,Country,Department
+John Smith,32,john.smith@example.com,12/05/2020,75000,USA,Marketing
+Jane  Doe,29,jane.doe@example.com,23/07/2018,82000,USA,Engineering
+Michael Johnson,,michael.johnson@example.com,01/03/2019,95000,CANADA,Finance
+Sarah Williams,34,sarah.williams@example.com,14/09/2021,,UK,HR
+David Brown,42,david.brown@example.com,30/11/2017,88000,usa,Engineering
+John Smith,32,john.smith@example.com,12/05/2020,75000,USA,Marketing
+ Jennifer Lee,27,jennifer.lee@example.com,08/04/2022,78000,Canada,Marketing
+Robert Davis,,robert.davis@example.com,19/01/2020,69000,UK,Sales
+Emma Wilson,31,emma.wilson@example.com,03/08/2021,72000,Australa,Finance
+Alex Martinez,36,alex.martinez@example.com,27/06/2019,91000,USA,Engineering
+Olivia  Taylor,30,olivia.taylor@example.com,5-4-2018,81000,Cannada,HR
+Daniel Johnson,45,daniel.johnson@example.com,16/10/2016,120000,UK,Finance
+Sophia Miller,33,sophia.miller@example.com,22/02/2020,,USA,Marketing
+William Garcia,39,william.garcia@example.com,11/12/2018,84000,india,Engineering
+Charlotte Rodriguez,28,charlotte.rodriguez@example.com,09-05-2021,76000,Canada,Sales
